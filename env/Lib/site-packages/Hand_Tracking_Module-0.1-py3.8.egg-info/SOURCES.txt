@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+Hand_Tracking_Module/__init__.py
+Hand_Tracking_Module/handTrackingModule.py
+Hand_Tracking_Module.egg-info/PKG-INFO
+Hand_Tracking_Module.egg-info/SOURCES.txt
+Hand_Tracking_Module.egg-info/dependency_links.txt
+Hand_Tracking_Module.egg-info/requires.txt
+Hand_Tracking_Module.egg-info/top_level.txt
